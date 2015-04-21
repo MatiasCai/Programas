@@ -1,6 +1,7 @@
 import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
+// importamos las librerias para poder usar list y arraylist. Lo de iterator no lo terminamos usando.
 
 public class Gato {
 	
